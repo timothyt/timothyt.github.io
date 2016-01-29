@@ -26,7 +26,7 @@
 		"menu": "Test App 2",
 		"type": "web",
 		"scripts": {
-			"start": "https://apple.com",
+			"start": "https://timothyt.github.io/app2/index.html",
 			"test": ""
 		},
 		"keywords": [
