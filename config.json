@@ -8,7 +8,7 @@
 		"menu": "Todo 1 offline app",
 		"type": "web",
 		"scripts": {
-			"start": "http://jsmithwar.github.io/app1/index.html",
+			"start": "https://timothyt.github.io/index.html",
 			"test": ""
 		},
 		"keywords": [
@@ -26,7 +26,7 @@
 		"menu": "Test App 2",
 		"type": "web",
 		"scripts": {
-			"start": "http://jsmithwar.github.io/app2/index.html",
+			"start": "https://apple.com",
 			"test": ""
 		},
 		"keywords": [
