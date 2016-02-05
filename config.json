@@ -40,6 +40,27 @@
 		"devDependencies": {
 
 		}
+	}, {
+		"name": "Config",
+		"version": "1.0.0",
+		"menu": "Change config",
+		"type": "native",
+		"scripts": {
+			"start": "changeconfig",
+			"test": ""
+		},
+		"keywords": [
+			"test",
+			"config"
+		],
+		"author": "Seattle Test",
+		"dependencies": {
+
+		},
+		"devDependencies": {
+
+		}
 	},
+	
 ]
 }
