@@ -1,0 +1,46 @@
+{
+	"Configuration": {
+		"DefaultContent": "Todo1"
+	},
+	"Content": [{
+		"name": "Todo1",
+		"version": "1.0.0",
+		"menu": "Todo 1 offline app",
+		"type": "web",
+		"scripts": {
+			"start": "https://timothyt.github.io/index.html",
+			"test": ""
+		},
+		"keywords": [
+			"prototype",
+			"tanks"
+		],
+		"author": "Seattle Test",
+		"dependencies": {
+		},
+		"devDependencies": {
+		}
+	}, {
+		"name": "Config",
+		"version": "1.0.0",
+		"menu": "Change config",
+		"type": "native",
+		"scripts": {
+			"start": "changeconfig",
+			"test": ""
+		},
+		"keywords": [
+			"test",
+			"config"
+		],
+		"author": "Seattle Test",
+		"dependencies": {
+
+		},
+		"devDependencies": {
+
+		}
+	},
+	
+]
+}
